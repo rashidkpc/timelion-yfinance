@@ -1,5 +1,7 @@
 # timelion-yfinance
 
+## Yahoo finance turned off the icharts API, so this is dead. 
+
 A yahoo stock datasource for timelion.
 
 ### .yfinance(symbol, stat) Alias: .yfi(symbol, stat)
